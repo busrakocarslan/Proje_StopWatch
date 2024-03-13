@@ -1,0 +1,1 @@
+My project is where I created a fully functional stopwatch by using JS effectively.
